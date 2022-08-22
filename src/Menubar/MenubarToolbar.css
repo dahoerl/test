@@ -1,0 +1,14 @@
+/* Add custom image to menubar
+.cut {
+    background: url(/src/data/menuitems/cut-svgrepo-com.svg) !important;
+    height: 16px;
+    width: 16px;
+} */
+
+.flipX {
+    transform: scaleX(-1);
+  }
+
+.flipY {
+    transform: scaleY(-1);
+}

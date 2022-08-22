@@ -1,0 +1,17 @@
+.p-tabview-nav  {
+  flex-wrap: wrap; 
+}
+
+* {border:1px solid red; }
+/* @media screen and (max-width: 768px) {
+  .p-tabview-nav  { flex-wrap: wrap; 
+    width: 100% !important;}
+} */
+/*
+https://stackoverflow.com/questions/34786962/primefaces-tabview-responsiveness
+@media screen and (max-width: 810px) {
+  .ui-tabs.ui-tabs-top > .ui-tabs-nav li{
+      width: 100% !important;
+  }
+}
+*/
